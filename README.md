@@ -14,6 +14,9 @@ var olea = new OleaComponent(this)
 Components.Add(olea);
 ```
 
+2. Open remote markdown document with `olea.Navigate("https://yoursite/readme.md")`
+3. Close window with `olea.Close()` 
+
 
 
 ## Support

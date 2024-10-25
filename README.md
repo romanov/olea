@@ -1,8 +1,8 @@
-# Olea
-Olea is a markdown rendering engine written in F# for MonoGame, and adaptable to desktop, mobile, and embedded applications.
+# MonoBrowser Core
+MonoBrowser Core is a markdown rendering engine written in F# for MonoGame, and adaptable to desktop, mobile, and embedded applications.
 
 ## Documenation
-1. Add Olea component to your game or project
+1. Add component to your game or project
 
 ```
 var olea = new OleaComponent(this)
@@ -20,7 +20,8 @@ Components.Add(olea);
 
 
 ## Support
-
+F#
+C#
 
 ## Future
 Image support
